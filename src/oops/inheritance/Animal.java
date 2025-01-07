@@ -25,5 +25,4 @@ class Dog extends Animal{
     }
 }
 class Lion extends Animal{
-
 }
